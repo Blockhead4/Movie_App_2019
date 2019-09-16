@@ -8,10 +8,6 @@ function App() {
   return (
     <div>
       <h1>Hello!!!</h1>
-      <Food favorite="kimchi" />
-      <Food favorite="ramen" />
-      <Food favorite="samgyubsal" />
-      <Food favorite="chukumi" />
     </div>
   );
 }
